@@ -1,6 +1,6 @@
 # About
 
-Handle Gaussian and Binomial distributions
+Python package to handle binomial and guassian distributions
 
 # Installation
   
